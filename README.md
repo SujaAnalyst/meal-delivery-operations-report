@@ -82,5 +82,7 @@ The dataset was transformed and modeled in Power BI to support reporting and ana
 ## Author
 
 Suja
+
 Power BI | SQL | Data Analysis
+
 Open to Remote Opportunities
