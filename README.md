@@ -61,7 +61,7 @@ The dataset was transformed and modeled in Power BI to support reporting and ana
 ## Screenshots
 
 ### Overview Page
-![Overview](overview.png)
+![Overview](Overview.png)
 
 
 ### Analysis Page
